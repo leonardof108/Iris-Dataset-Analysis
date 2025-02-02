@@ -377,5 +377,3 @@ Small drop from 100%, likely due to different train-test splits, but still excel
 ---
 
 **Thank you for exploring my project!**
-
-[Go back to the repository's main page](https://github.com/leonardof108/Iris-Dataset-Analysis/)
